@@ -1,0 +1,18 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+.card img {
+  object-fit: cover;
+  height: 250px;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
